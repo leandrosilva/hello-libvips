@@ -1,5 +1,6 @@
 /**
  * https://github.com/libvips/libvips/tree/master/cplusplus
+ * https://github.com/libvips/libvips/issues/285#issuecomment-97964459
  *
  * g++ -g -Wall example.cc `pkg-config vips-cpp --cflags --libs`
  */
